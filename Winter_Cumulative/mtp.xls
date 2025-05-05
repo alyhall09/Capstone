@@ -1,0 +1,1 @@
+station,datetime,precip(mm),wxcodes,date,sunrise,sunset,sunrise+1,sunset-1,sunrise-1,sunset+1,month,state
